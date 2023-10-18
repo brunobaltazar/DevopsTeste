@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: README.md</h1>
 
 ## :memo: Descrição
-Instalar executores auto-hostados no servidor linux
+Instalar executores auto-hospedados no servidor linux
 
 ## :books: Funcionalidades
 * <b></b> Implantar, gerenciamento e executação dos trabalhos por meio do GitHub Actions no em GitHub.com
